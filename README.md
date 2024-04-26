@@ -2,7 +2,7 @@
 
 ![Bellabeat](bella.png)
 
-![Gantt Chart](Fitbit_Analysis_and_Data_Project_Management.xlsx)
+![Gantt Chart](Fitbit_Analysis_and_Project_Management.xlsx)
 
 
 
