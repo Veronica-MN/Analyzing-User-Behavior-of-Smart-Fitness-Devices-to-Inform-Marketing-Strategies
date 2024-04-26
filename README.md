@@ -2,6 +2,10 @@
 
 ![Bellabeat](bella.png)
 
+![Gantt Chart](Fitbit_Analysis_and_Data_Project_Management.pdf)
+
+
+
 In this Capstone Project from the Google Data Analytics Professional Certificate, I will follow the six steps of the data analysis process:
 **Ask, Prepare, Process, Analyse, Share, Act**
 
