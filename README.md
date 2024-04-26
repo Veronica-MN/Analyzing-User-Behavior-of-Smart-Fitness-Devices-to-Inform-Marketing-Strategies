@@ -7,4 +7,4 @@ In this Capstone Project from the Google Data Analytics Professional Certificate
 
 These analysis steps will help give insights into the Fitbit Fitness Tracker data in order to gain some insights that could be beneficial for Bellabeat.
 
-![Gantt Chart](Fitbit_Analysis_and_Data_Project_Management.png)
+![Gantt Chart](Fitbit_Analysis_and_Data_Project_Managemet.png)
