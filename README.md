@@ -4,10 +4,8 @@
 
 |                                             |                                       |
 |---------------------------------------------|---------------------------------------|
-| What is Lorem Ipsum kjnassfdf
-asfjknsdfskjnfsndfsdndjngdfgndfgngnnkggfklnnk
-aKJFSdfkjdnsGJDFKJNDJKNGJFNGJKFNGFLJKNGLKJFNK 
-KJANDSFjkdlkfsofjposjfpojefklwnfklsnfslknflks | ![Bellabeat](bella.jpeg)              |
+| Lorem Ipsum is simply dummy text of the... | <img src="bella.jpeg" alt="Bellabeat" width="500"> |
+
 
 
 
