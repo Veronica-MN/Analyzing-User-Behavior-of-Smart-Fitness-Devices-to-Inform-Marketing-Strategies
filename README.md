@@ -2,9 +2,10 @@
 
 ## A Google Data Analytics Professional Certificate Capstone Project
 
-| Text                                        | Image                               |
-|---------------------------------------------|-------------------------------------|
-| Lorem Ipsum is simply dummy text of the... | ![Bellabeat](bella.jpeg){width=300} |
+|                                             |                                       |
+|---------------------------------------------|---------------------------------------|
+| Lorem Ipsum is simply dummy text of the... | ![Bellabeat](bella.jpeg){width=300}   |
+
 
 
 
