@@ -81,12 +81,12 @@ The final dataframe contains 940 daily activities recorded, 940 daily calories e
 3. remove duplicates
 4. Merging datasets
 
-```python
+```
 daily_activity_data['ActivityDate'] = pd.to_datetime(daily_activity_data['ActivityDate'])
 daily_activity_data.rename(columns={'ActivityDate': 'Date'}, inplace=True)
 daily_activity_data.info()
 
-```python
+```
 sleepday_data.duplicated().sum()
 
 
@@ -100,4 +100,21 @@ sleepday_data.duplicated().sum()
 ### Correlation between total steps taken and calories burned
 
 ![correlation](images/correlation.png)
+
+
+### Steps taken throughout the week
+
+![steps_taken_throughout_the_Week](steps_taken_throughout_week.png)
+
+### Total time asleep by Day of the Week
+
+![total_time_asleep](total_time_asleep.png)
+
+### Sedentary vs Active Users
+
+![sedentaryminutes_activeminutes](sedentaryminutes_activeminutes.png)
+
+### Calories Burned by Day of the Week
+
+![calories_burned](calories_burned.png)
 
