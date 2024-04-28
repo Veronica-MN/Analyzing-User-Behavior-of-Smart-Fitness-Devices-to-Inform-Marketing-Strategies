@@ -3,7 +3,7 @@
 ## A Google Data Analytics Professional Certificate Capstone Project
 
 
-<div style="display:flex;">
+<div style="display:flex; justify-content: space-between;">
     <div style="flex:1;">
         <!-- Your text goes here -->
         Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, 
@@ -13,6 +13,7 @@
         <img src="bella.jpeg" alt="Bellabeat" width="300"/>
     </div>
 </div>
+
 
 
 
