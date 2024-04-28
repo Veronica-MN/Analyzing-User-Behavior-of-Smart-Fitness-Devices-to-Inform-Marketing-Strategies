@@ -10,9 +10,10 @@
     </div>
     <div style="flex:1; text-align:right;">
         <!-- Your image goes here -->
-        <img src="![Bellabeat](bella.jpeg)" alt="Image Description" width="300"/>
+        <img src="bella.jpeg" alt="Bellabeat" width="300"/>
     </div>
 </div>
+
 
 
 
