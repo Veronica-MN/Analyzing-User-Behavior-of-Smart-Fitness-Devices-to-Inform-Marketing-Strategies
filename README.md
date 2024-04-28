@@ -101,12 +101,18 @@ sleepday_data.duplicated().sum()
 
 ![correlation](images/correlation.png)
 
+A positive correlation between the steps taken by users and the calories burned. This implies that the more steps taken the more calories are burned.
+
 
 ### Steps taken throughout the week
 
 ![steps_taken_throughout_the_Week](images/steps_taken_throughout_week.png)
 
+The steps taken on Sundays are averaging lower than on other days. We can deduce that perhaps sundays are days when most users feel less need to be active and on Monday the daily steps increase quite significantly and follow through as such through the week reaching very high daily steps on Tuesdays and Saturdays
+
 ### Total time asleep by Day of the Week
+
+We can also see that users slept longer on Wednesdays and Mondays as well probably due to the start of the week and the middle of the week. This could also be representative of users being less active or taking more steps on these days as well.
 
 ![total_time_asleep](images/total_time_asleep.png)
 
@@ -114,9 +120,13 @@ sleepday_data.duplicated().sum()
 
 ![sedentaryminutes_activeminutes](images/sedentaryminutes_activeminutes.png)
 
+This observation underscores that the majority of users tend to allocate more time to less active pursuits. Several factors may contribute to this discrepancy. 
+
 ### Calories Burned by Day of the Week
 
 ![calories_burned](images/calories_burned.png)
+
+The higher calorie burn on Saturday is expected as we've seen in our "Steps taken throughout the Week" plot as it is the weekend and more people have more time for physical activities
 
 # Share
 
