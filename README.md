@@ -74,11 +74,12 @@ import libraries to setup environment and import datasets
 
 ## Transform and Explore Data
 
-The final dataframe contains 940 daily activities recorded, 940 daily calories entries recorded, 413 daily sleep data recorded, 22099 hourly steps data recorded and 65 NaN values in the weightloginfo_data. All Python code can be found ![here](Bellabeat_Project.ipynb)
+The final dataframe contains 940 daily activities recorded, 940 daily calories entries recorded, 413 daily sleep data recorded, 22099 hourly steps data recorded and 65 NaN values in the weightloginfo_data. All Python code can be found [here](Bellabeat_Project.ipynb) 
 
 1. previewing and summaring datasets
 2. rename  ActivityDatem SleepDay and Date to convert to date data type
 3. remove duplicates
+4. Merging datasets
 
 ```python
 daily_activity_data['ActivityDate'] = pd.to_datetime(daily_activity_data['ActivityDate'])
@@ -87,5 +88,15 @@ daily_activity_data.info()
 
 ```python
 sleepday_data.duplicated().sum()
+
+```
+activity_summary_df = pd.merge(daily_activity_data, sleepday_data, on=['Id','Date'], how='inner')
+activity_summary_df
+
+```
+merged_df['WeekDay'] = merged_df['ActivityHour'].dt.day_name()
+merged_df.head()
+
+# Analyze
 
 
