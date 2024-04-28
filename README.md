@@ -14,13 +14,6 @@
 </div>
 
 
-
-
-
-
-
-![Bellabeat](bella.png)
-
 In this Capstone Project from the Google Data Analytics Professional Certificate, I will follow the six steps of the data analysis process:
 **Ask, Prepare, Process, Analyse, Share, Act**
 
