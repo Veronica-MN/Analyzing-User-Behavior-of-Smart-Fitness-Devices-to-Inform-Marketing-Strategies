@@ -94,9 +94,14 @@ activity_summary_df = pd.merge(daily_activity_data, sleepday_data, on=['Id','Dat
 activity_summary_df
 
 ```
+# extract day of week from Acitivit Hour in merged_df dataframe
 merged_df['WeekDay'] = merged_df['ActivityHour'].dt.day_name()
 merged_df.head()
 
 # Analyze
+
+## Summary statistics of the Data and visualisation
+
+activity_summary_df.describe()
 
 
