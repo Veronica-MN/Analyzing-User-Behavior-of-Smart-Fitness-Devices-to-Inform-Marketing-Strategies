@@ -90,7 +90,7 @@ daily_activity_data.info()
 sleepday_data.duplicated().sum()
 
 ```
-merged_df['WeekDay'] = merged_df['ActivityHour'].dt.day_name()
+merged_df[`'WeekDay'`] = merged_df[`'ActivityHour'`].dt.day_name()
 merged_df.head()
 
 
