@@ -118,3 +118,17 @@ sleepday_data.duplicated().sum()
 
 ![calories_burned](images/calories_burned.png)
 
+# Share
+
+# Act
+## Recommendations
+
+Based on the analyses done on the users of the fitbit devices, the following recommendations can be put forth to the stakeholders.
+
+1. Seeing as there is a positive correlation between the steps users take and the calories they burn, users may need an incentive to continue taking more steps or even increase their daily steps. This could come from offering rewards, challenges, and/or curating personalised achievements by way of notifications or badges that users can see to encourage users to want to reach their target goals.
+
+2. Users seem to spend most of the time awake in bed before falling asleep. This can affect a person's activity the next day. Notifications can be sent to users to alert them of their sleep time or sleep schedule once they've built one. By doing so, users will equate the notification to time to sleep.
+
+3. The steps taken average around 7,500 daily besides on Sundays which the steps are quite low. Users can be encouraged to set a daily step target by sending them notifications or setting off alarms when their daily steps have not reached a particular number at a particular time of the day. This can motivate users to want to move around in order to reach the daily step target goal.
+
+4. Throught further research, we can find out based on the varying activity levels of users for example very active users can be provided further metrics and information that they can review in order to continue or increase their daily activity such as information about meals, diets, intense workouts, intense challenges, competitions and so on. While the 'less active' users can be provided information that is motivating for instance personal health goals, information about walking events, challenges, walking buddies, walking clubs etc in order to get to be at the 'very active' activity level
