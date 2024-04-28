@@ -4,7 +4,12 @@
 
 |                                             |                                       |
 |---------------------------------------------|---------------------------------------|
-| Lorem Ipsum is simply dummy text of the... | <img src="bella.jpeg" alt="Bellabeat" width="500"> |
+| ![Bellabeat](https://bellabeat.com/) high-tech 
+manufacturer of health-focused products for women.
+Their products include smart water bottles, fitness 
+watches and jeweller as well as yoga mats. Users can 
+have access to their health data which is collected 
+through the devices in the Bellabeat app.     | <img src="bella.jpeg" alt="Bellabeat" width="500"> |
 
 
 
