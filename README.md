@@ -89,10 +89,6 @@ daily_activity_data.info()
 ```python
 sleepday_data.duplicated().sum()
 
-```
-merged_df[`'WeekDay'`] = merged_df[`'ActivityHour'`].dt.day_name()
-merged_df.head()
-
 
 # Analyze
 
@@ -100,4 +96,8 @@ merged_df.head()
 
 ![activity_summary](activity_summary.png)
 
+
+### Correlation between total steps taken and calories burned
+
+![correlation](images/correlation.png)
 
