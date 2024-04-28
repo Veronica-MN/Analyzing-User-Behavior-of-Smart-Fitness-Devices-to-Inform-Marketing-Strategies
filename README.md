@@ -98,10 +98,11 @@ activity_summary_df
 merged_df['WeekDay'] = merged_df['ActivityHour'].dt.day_name()
 merged_df.head()
 
+
 # Analyze
 
 ## Summary statistics of the Data and visualisation
 
-activity_summary_df.describe()
+![activity_summary](activity_summary.png)
 
 
