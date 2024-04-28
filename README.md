@@ -104,17 +104,17 @@ sleepday_data.duplicated().sum()
 
 ### Steps taken throughout the week
 
-![steps_taken_throughout_the_Week](steps_taken_throughout_week.png)
+![steps_taken_throughout_the_Week](images/steps_taken_throughout_week.png)
 
 ### Total time asleep by Day of the Week
 
-![total_time_asleep](total_time_asleep.png)
+![total_time_asleep](images/total_time_asleep.png)
 
 ### Sedentary vs Active Users
 
-![sedentaryminutes_activeminutes](sedentaryminutes_activeminutes.png)
+![sedentaryminutes_activeminutes](images/sedentaryminutes_activeminutes.png)
 
 ### Calories Burned by Day of the Week
 
-![calories_burned](calories_burned.png)
+![calories_burned](images/calories_burned.png)
 
