@@ -2,10 +2,10 @@
 
 ## A Google Data Analytics Professional Certificate Capstone Project
 
-![Bellabeat](bellab.png)
+![Bellabeat](bellab.png)  [Bellabeat](https://bellabeat.com/) high-tech manufacturer of health-focused products for women. Their products include smart water bottles, fitness watches and jewelry as well as yoga mats. Users can have access to their health data which is collected through the devices in the Bellabeat app. The founders of Bellabeat would like to analyse data from non-Bellabeat fitness devices to find out how consumers are using these products. With the insights from the analysis, the company hopes to develop new marketing strategies for the company.
 
 
-[Bellabeat](https://bellabeat.com/) high-tech manufacturer of health-focused products for women. Their products include smart water bottles, fitness watches and jewelry as well as yoga mats. Users can have access to their health data which is collected through the devices in the Bellabeat app. The founders of Bellabeat would like to analyse data from non-Bellabeat fitness devices to find out how consumers are using these products. With the insights from the analysis, the company hopes to develop new marketing strategies for the company.
+
 
 
 # Ask
