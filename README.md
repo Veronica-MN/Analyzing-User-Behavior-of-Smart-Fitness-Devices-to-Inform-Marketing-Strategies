@@ -35,7 +35,7 @@ Bellabeat membership: Additionally, Bellabeat offers a subscription-based member
    
 # Prepare
 
-## Data Governance Protocols
+## Data Source
 
 The dataset used in this analysis was generated through a distributed survey via Amazon Mechanical Turk between 03.12.2016-05.12.2016. Thirty eligible Fitbit users consented to the submission of personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. The dataset is stored in Kaggle as ![Fitbit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit) and available through Mobius.
 
